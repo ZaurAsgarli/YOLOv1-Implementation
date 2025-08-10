@@ -24,8 +24,6 @@ Pandas
 
 Matplotlib
 
-Seaborn
-
 tqdm
 
 OpenCV (optional for image handling)
@@ -50,4 +48,5 @@ Training and validation loss curves
 Bounding box predictions on sample images
 
 Performance metrics such as mAP (mean Average Precision)
+
 
