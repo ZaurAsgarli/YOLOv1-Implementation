@@ -1,4 +1,5 @@
 YOLOv1 From Scratch (TensorFlow)
+
 This repository contains a Jupyter Notebook that implements YOLOv1 (You Only Look Once) from the ground up in TensorFlow. The project walks through dataset preparation, network architecture creation, custom loss function design, and object detection evaluation.
 
 Features
@@ -49,3 +50,4 @@ Training and validation loss curves
 Bounding box predictions on sample images
 
 Performance metrics such as mAP (mean Average Precision)
+
